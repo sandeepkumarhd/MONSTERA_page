@@ -1,0 +1,143 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+#navbarMonstera{
+    display: flex;
+    justify-content: space-between;
+
+}
+#midWhole{
+    display: flex;
+}
+#midWholePart1{
+    display: flex;
+    flex-direction: column;
+}
+#midWholePart11{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 200px;
+    
+}
+#midWholePart12{
+    margin-left: 150px;
+    margin-top: 80px;
+
+}
+#midWholePart121{
+    /* background-color: aquamarine; */
+    margin-left: 80px;
+   
+}
+#midWholePart13{
+    display: flex;
+   
+}
+#navMid{
+    display: flex;
+    padding-left: 150px;
+    margin-top: 30px;
+
+}
+.list{
+    padding-right: 50px;
+    padding-left: 30px;
+    font-size: 20px;
+    font-family: "Allerta";
+   
+}
+#navEnd{
+    display: flex;
+    margin-top:30px ;
+}
+.img1{
+    padding-right: 40px;
+    
+}
+#monstera{
+    font-size: 110px;
+    font-family: "Allerta";
+    color: rgb(10, 9, 10);
+}
+.morena1{
+    font-size: 25px;
+    margin-left: 60px;
+    font-family: "Allerta";
+}
+.morena2{
+    font-size: 25px;
+    margin-top: -5px;
+    font-family: "Allerta";
+    margin-left: 60px;
+}
+.morena3{
+    font-size: 25px;
+    font-family: "Allerta";
+    margin-left: 60px;
+    
+}
+#navFirst{
+    padding-left: 30px;
+    margin-top: 30px;
+}
+.dis{
+    width: 300px;
+    height: 70px;
+    background-color: rgb(110, 240, 140);
+    border-radius: 30px;
+}
+h1{
+    margin-left: 60px;
+    padding-top: 15px;
+    color: aliceblue;
+    font-family: "Allerta";
+}
+#feeding{
+    margin-left: 40px;
+    margin-top: 70px;
+}
+#light{
+    margin-left: 40px;
+    margin-top: 70px;
+}
+#care{
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.feeding1{
+    margin-left: 140px;
+    margin-top: -85px;
+    font-size: 20px;
+    font-family: "Allerta";
+
+}
+.light1{
+    margin-left: 95px;
+    margin-top: -65px;
+    font-size: 20px;
+    font-family: "Allerta";
+
+}
+.care1{
+    margin-left: 109px;
+    margin-top: -65px;
+    font-size: 20px;
+    font-family: "Allerta";
+}
+.text1{
+    margin-left: 109px;
+    font-family: "Allerta";
+}
+.text2{
+    margin-left: 95px;
+    font-family: "Allerta";
+}
+.text3{
+    margin-left: 140px;
+    font-family: "Allerta";
+}
+li{
+    list-style-type: none;
+}
